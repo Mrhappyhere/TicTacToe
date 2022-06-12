@@ -3,7 +3,14 @@
 
 # Click on the link below to preview my project :- 
 https://mrhappyhere.github.io/TicTacToe/
+<hr>
 
 #preview:-
 <br>
 ![preview](https://user-images.githubusercontent.com/80676763/173238339-0527df9b-5a19-48f0-a504-39f8958317b0.jpg)
+
+<hr>
+
+# MIT License
+
+Copyright (c) 2022 Prathamesh Patil
