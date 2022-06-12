@@ -5,3 +5,4 @@
 https://mrhappyhere.github.io/TicTacToe/
 
 #preview:-
+![preview](https://user-images.githubusercontent.com/80676763/173238339-0527df9b-5a19-48f0-a504-39f8958317b0.jpg)
