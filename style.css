@@ -35,7 +35,7 @@
     grid-template-columns: 33% 33% 33%;
     grid-template-rows: 33% 33% 33%;
     max-width: 300px;
-    background-color: #0000;
+    background-color: #000000;
 }
 
 .tile {
